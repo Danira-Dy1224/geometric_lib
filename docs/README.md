@@ -169,4 +169,7 @@ print(res)
 ```
 b73f82b922390c83976c8e980c8e39a51d0f73cb - "adding some files from the previous lab work and writting down some new comments"
 6884fd9b2acd31a04b0cdb5076bd61c3567e85cf - "adding some files from the previous lab work"
+
+lab. work №4:
+commit ddc1e3b0d9304e6d847131be0c38e1b9b2f24109 - "Fix some syntax in files. Add unit tests for completing new lab. work №4. Edit README.md"
 ```
