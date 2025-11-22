@@ -12,6 +12,7 @@ def area(a, h):
     print(res)
     >> 6
     '''
+    
     return a * h / 2
 
 def perimeter(a, b, c):
@@ -29,4 +30,8 @@ def perimeter(a, b, c):
     print(res)
     >> 10
     '''
+    if (a + b < c or a + c < b or b + c < a):
+        print("Error: invalid triangle")
+        return -1
+        
     return a + b + c

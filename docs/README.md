@@ -148,7 +148,23 @@ print(res)
 >> 10
 ```
 
+# Ver 0.0.1
+## Lab. Work №4
+### Добавлены unit тесты для проверки всего выше перечисленного функционала. 
+Соответственно добавлены следующие файлы с тестами: 
+- unittest_for_circle.py
+- unittest_for_rectangle.py
+- unittest_for_square.py
+- unittest_for_trinagle.py
+- all_unittests.py
 
+Последний файл содержит в себе все написанные тесты (в данный файл все тесты были импортированы) для того, чтобы выводить результат покрытия для всех проверок. 
+
+> Tip: Для локального запуска тестов нужно прописать следующие команды: 
+```
+> python3 -m coverage run all_unittests.py
+> coverage report -m
+```
 ### История изменения файлов с функциями с хэшами commit
 ```
 b73f82b922390c83976c8e980c8e39a51d0f73cb - "adding some files from the previous lab work and writting down some new comments"
