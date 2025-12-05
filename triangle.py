@@ -35,3 +35,4 @@ def perimeter(a, b, c):
         return -1
         
     return a + b + c
+#for tests

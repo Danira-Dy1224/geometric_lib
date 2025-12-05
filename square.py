@@ -25,3 +25,5 @@ def perimeter(a):
     >> 96
     '''
     return 4 * a
+
+    #for tests

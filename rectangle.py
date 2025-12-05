@@ -29,3 +29,4 @@ def perimeter(a, b):
     >> 16
     '''
     return 2 * (a + b)
+    #for tests
